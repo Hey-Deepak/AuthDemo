@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "855313107096",
+    "project_id": "authdemo-597ce",
+    "storage_bucket": "authdemo-597ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855313107096:android:1cc7dac40fbf4a583c28ed",
+        "android_client_info": {
+          "package_name": "com.dc.authdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855313107096-0kled7boecbgostdirb1sosv27o5c5g1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dc.authdemo",
+            "certificate_hash": "965d9a8b6eb5cdf1aff216804aff02dd3ffcf2ac"
+          }
+        },
+        {
+          "client_id": "855313107096-8j3nc5m2h7i51h50no32rr7q7qunpt4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhMWN2mmFoj8FFTN8hTLhfE8ihe4OCDIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855313107096-8j3nc5m2h7i51h50no32rr7q7qunpt4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
