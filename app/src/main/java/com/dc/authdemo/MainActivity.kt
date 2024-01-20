@@ -74,7 +74,6 @@ class MainActivity : ComponentActivity() {
         loginLauncher.launch(intent)
     }
 
-
     // Step 3: Handler (to get the result)
     private lateinit var loginHandler: (() -> Unit)
 
@@ -91,7 +90,6 @@ fun App(launcherLoginFlow: (() -> Unit) -> Unit) {
         modifier = Modifier.fillMaxSize()
     ) {
         Button(onClick = {
-
 
             launcherLoginFlow {
                 val user = FirebaseAuth.getInstance().currentUser
